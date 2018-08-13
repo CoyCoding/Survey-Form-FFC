@@ -31,6 +31,6 @@ stacks like React. We will accept and try to fix all issue reports that use the 
   
  
   # Extra info
-  This tribute page was ment to meet the requirements of the freeCodeCamp.org requirements and currently features no media queries. I won't be coming back to work on this as I feel it should be used to show progress more than anything. Just like the first the next project I did is pretty good though.
+  This page was ment to meet the requirements of the freeCodeCamp.org requirements and currently features no media queries. I won't be coming back to work on this as I feel it should be used to show progress more than anything. 
   
 The codepen version of this site can be viewed: [here]( https://codepen.io/anon/pen/NBBoxa).
